@@ -10,7 +10,7 @@ This is simply a reverse engeneer of https://titaniumnetwork.org/ which DOES NOT
 
 # Deployment
 [![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/illusionTBA/HypertabsEX)
-[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/illusionTBA/HypertabsEX)
+[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/BV0073194/HyperTabs-Ultraviolet)
 [![Remix on Glitch](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/illusionTBA/HypertabsEX)
 
 
